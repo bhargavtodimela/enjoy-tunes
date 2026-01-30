@@ -2,7 +2,7 @@
 
 A premium, high-performance open-source music player application built with modern Android development practices.
 
-Developed by **Bhargav Todimela** in collaboration with **Google Gemini**.
+Developed by **Bhargav Todimela** by using  **Google Gemini**.
 
 Enjoy Tunes provides a seamless music discovery and playback experience, featuring a sleek Spotify-inspired interface, background playback, and an integrated download system.
 
